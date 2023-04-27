@@ -5,7 +5,13 @@
    - [maintained by Akaibu](https://colab.research.google.com/drive/1kw3egmSn-KgWsikYvOMjJkVDsPLjEMzl)
    - [Colab, original by me, outdated](https://colab.research.google.com/drive/1Iy-xW9t1-OQWhb0hNxueGij8phCyluOh).
 
-    
+## Brev.dev
+
+  [![](https://uohmivykqgnnbiouffke.supabase.co/storage/v1/object/public/landingpage/createdevenv2.svg)](https://console.brev.dev/environment/new?os=ejmrvoj8m&us=62ga2fflb&repo=https://github.com/AUTOMATIC1111/stable-diffusion-webui&repo=https://github.com/brevdev/template-setup-scripts&instance=g5.2xlarge&diskStorage=100Gi&region=us-west-2&setupRepo=https://github.com/brevdev/template-setup-scripts&setupPath=stable-diffusion-webui.sh)
+
+   - [maintained by brevdev](https://console.brev.dev/environment/new?os=ejmrvoj8m&us=62ga2fflb&repo=https://github.com/AUTOMATIC1111/stable-diffusion-webui&repo=https://github.com/brevdev/template-setup-scripts&instance=g5.2xlarge&diskStorage=100Gi&region=us-west-2&setupRepo=https://github.com/brevdev/template-setup-scripts&setupPath=stable-diffusion-webui.sh)
+
+
 ## Paperspace
    - [maintained by Cyberes](https://github.com/Engineer-of-Stuff/stable-diffusion-paperspace)
 
